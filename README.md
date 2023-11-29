@@ -1,4 +1,4 @@
-# Andrew microinjection
+# Automated Drosophila embryo microinjection
 An Automated microinjection platform for Drosophila embryos
 ### Hardware Requirements
 1. Computer
